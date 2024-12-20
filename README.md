@@ -37,7 +37,6 @@ npm install
 Start the development server:
 
 bash
-Copiază codul
 npm run dev
 Open the application in your browser: Navigate to http://localhost:5173 in your preferred browser.
 
