@@ -23,27 +23,6 @@ Pixabay API for accessing data.
 Vite for quick setup and application performance.
 
 
-
-📂 Project Structure
-
-bash
-Copiază codul
-.
-├── index.html             # Main application page
-├── src/
-│   ├── css/
-│   │   └── style.css       # Styling file
-│   ├── js/
-│   │   ├── main.js         # Main application logic
-│   │   ├── pixabay-api.js  # Functions for Pixabay API interaction
-│   │   └── render-functions.js # Functions for UI rendering
-├── vite.config.js          # Vite configuration
-├── package.json            # Information about dependencies and scripts
-└── README.md               # Documentation
-
-
-
-
 🚀 How to Run the Project?
 Clone this repository:
 
